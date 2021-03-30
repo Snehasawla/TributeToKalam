@@ -1,0 +1,15 @@
+{
+  "name": "tributepage",
+  "version": "1.0.0",
+  "description": "tribute to A. P. J. Abdul Kalam for FreeCodeCamp.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "sneha sawla",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
