@@ -1,11 +1,25 @@
+body{
+    text-align: center;
+}
+
 #main{
     background-color: rgb(212, 217, 221);
     margin: 15px 100px 15px 100px;
     padding: auto;
 }
 
+h5{
+    text-align: right;
+    margin-right: 290px;
+}
+
+li{
+    margin:20px 100px 20px 100px;
+    padding: 10px 5px 10px 5px;
+    text-align: left;
+}
+
 #title{
-    text-align: center;
     margin: auto;
     padding: 20px 10px 20px 10px;
     background-color: #fff;
