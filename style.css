@@ -1,6 +1,11 @@
 body{
     text-align: center;
 }
+#img{
+    width: 100%;
+    height:auto;
+    max-width: fit-content;
+}
 
 #main{
     background-color: rgb(212, 217, 221);
